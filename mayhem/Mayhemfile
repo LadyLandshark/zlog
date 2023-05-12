@@ -10,7 +10,7 @@ image: ghcr.io/ladylandshark/zlog:latest
 # Testsuite info
 testsuite:
 #  - https://mayhem.forallsecure.com/ladylandshark/zlog/testsuite.tar
-  - file://mayhem/corpus
+    - file://corpus
 
 
 # List of commands used to test the target
